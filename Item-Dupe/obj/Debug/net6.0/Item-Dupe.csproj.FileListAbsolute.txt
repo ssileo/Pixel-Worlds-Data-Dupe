@@ -1,0 +1,15 @@
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/Item-Dupe.csproj.AssemblyReference.cache
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/Item-Dupe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/Item-Dupe.AssemblyInfoInputs.cache
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/Item-Dupe.AssemblyInfo.cs
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/Item-Dupe.csproj.CoreCompileInputs.cache
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/bin/Debug/net6.0/Item-Dupe
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/bin/Debug/net6.0/Item-Dupe.deps.json
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/bin/Debug/net6.0/Item-Dupe.runtimeconfig.json
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/bin/Debug/net6.0/Item-Dupe.dll
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/bin/Debug/net6.0/Item-Dupe.pdb
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/Item-Dupe.dll
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/refint/Item-Dupe.dll
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/Item-Dupe.pdb
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/Item-Dupe.genruntimeconfig.cache
+/Users/Taha/Projects/Item-Dupe/Item-Dupe/obj/Debug/net6.0/ref/Item-Dupe.dll
